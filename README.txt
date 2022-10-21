@@ -17,3 +17,8 @@ The plugin will be listed in Project(A) or Installed(B) as "CH Tools: Audio Tota
 Enabling/Disabling the plugin requires the editor to restart.
 
 For instructions on how to use, see the included video.
+
+**NOTE** 
+- Using this for the first time in a new project may freeze the editor momentarily as it reads the audio files. 
+- The amount of time varies depending on your system and the amount of files selected. (400 files froze mine for ~30s)
+- This only accounts for USoundWaves, but will load ALL selected files resulting in the above.
